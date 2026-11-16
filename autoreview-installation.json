@@ -1,0 +1,20 @@
+{
+  "requested_source": "https://github.com/openclaw/openclaw/tree/main/.agents/skills/autoreview",
+  "requested_revision": "2435c1faa791de766688ba27ca7a14a92e30b7e4",
+  "canonical_source": "https://github.com/openclaw/agent-skills/tree/main/skills/autoreview",
+  "canonical_revision": "a056640843cb9b7701a451c2d43ef554709ab988",
+  "destination": "/Users/leopoldclark/Documents/Codex/2026-11-16/follow-https-skillsmp-com-skill-install/.agents/skills/autoreview",
+  "verified_files": 34,
+  "relative_links_checked": 20,
+  "helper_version": "autoreview source-sha256:34fa996deec5257dc5ad22dc0845166d3594ab7263b58cc8cbeb7f9ee1d0cf5d",
+  "checks": [
+    "Byte-for-byte copy comparison",
+    "Relative Markdown file links",
+    "Helper --version and --help"
+  ],
+  "limitations": [
+    "Live reviewer authentication and execution not tested",
+    "Pillow required only for supported image reviews"
+  ],
+  "scope_note": "Project-local complete canonical package installed per SkillsMP instructions; upstream normally recommends a shared installation."
+}
